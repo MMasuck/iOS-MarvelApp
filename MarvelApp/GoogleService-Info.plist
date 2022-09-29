@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>39158058716-qbh095phb8vkgfutdu82qp693q0m2ovk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39158058716-qbh095phb8vkgfutdu82qp693q0m2ovk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbLgyvTygjFbHdp29KToTb4I0saAZ0Ty4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39158058716</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mmasuck.MarvelApp</string>
+	<key>PROJECT_ID</key>
+	<string>marvelapp-f5157</string>
+	<key>STORAGE_BUCKET</key>
+	<string>marvelapp-f5157.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39158058716:ios:34ffa9cb17d031c1f3ee19</string>
+</dict>
+</plist>
